@@ -25,7 +25,7 @@ Created by **Omar Soliman**, this portfolio project presents an executive-level 
 
 The opening portal provides structured navigation to all analytics modules and gives users a clear starting point for either operational sales review or strategic market analysis.
 
-![Landing Navigation Portal](screenshots/landing-page.png)
+![Landing Navigation Portal](screenshots/Interface.png)
 
 ### 2) Sales Performance Module
 
@@ -35,7 +35,7 @@ This module focuses on operational sales execution and trend monitoring:
 - **Territory Composition (Treemap):** Revenue concentration is strongest across **EMEA** and **North America (NA)**.
 - **Monthly Seasonality (Line Chart):** Sales peak in **November**, highlighting end-of-year demand acceleration.
 
-![Sales Performance Module](screenshots/sales-performance.png)
+![Sales Performance Module](screenshots/Sales-Performance.png)
 
 ### 3) Market Intelligence Module
 
@@ -45,4 +45,4 @@ This module supports customer and geographic strategy decisions:
 - **Country Contribution (Treemap):** Top contributors include the **USA**, **Spain**, and **France**.
 - **Q4 Revenue Split:** Comparative quarter-end analysis surfaces regional/customer concentration patterns for final-quarter planning.
 
-![Market Intelligence Module](screenshots/market-intelligence.png)
+![Market Intelligence Module](screenshots/Market-Intelligence.png)
